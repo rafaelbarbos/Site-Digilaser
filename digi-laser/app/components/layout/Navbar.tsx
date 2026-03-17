@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X } from 'lucide-react';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/app/components/ui/Button';
 import { NAV_LINKS, WHATSAPP_URL } from '@/lib/constants';
 
 export function Navbar() {
@@ -47,7 +47,7 @@ export function Navbar() {
             {/* Links — desktop */}
             <div className="hidden md:flex items-center gap-8">
               {NAV_LINKS.map((link) => (
-                
+                <a
                   key={link.name}
                   href={link.href}
                   onClick={(e) => { e.preventDefault(); handleLinkClick(link.href); }}

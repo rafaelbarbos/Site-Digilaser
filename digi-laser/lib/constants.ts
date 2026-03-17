@@ -99,7 +99,7 @@ export const GALLERY_IMAGES: { src: string; alt: string }[] = [
 ];
 
 // --- CONTATO ---
-export const WHATSAPP_URL = 'https://wa.me/5562999999999';
+export const WHATSAPP_URL = 'https://wa.me/5562984816914?text=Olá%20Digi%20Laser%2C%20gostaria%20de%20solicitar%20um%20orçamento%20para%20o%20reparo%20da%20minha%20placa.';
 
 export const NAV_LINKS = [
   { name: 'Serviços', href: '#servicos' },

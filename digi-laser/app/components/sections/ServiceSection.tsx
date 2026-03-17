@@ -1,5 +1,6 @@
-import { ServiceCard } from '@/components/ui/ServiceCard';
-import { SectionHeader } from '@/components/ui/SectionHeader';
+'use client';
+import { ServiceCard } from '@/app/components/ui/ServiceCard';
+import { SectionHeader } from '@/app/components/ui/SectionHeader';
 import { SERVICES } from '@/lib/constants';
 
 export function ServicesSection() {

@@ -15,7 +15,7 @@ export function Footer() {
               <span className="font-bold text-xl">Digi Laser</span>
             </div>
             <p className="text-gray-400 text-sm">
-              Especialistas em Eletrônica de Ar Condicionado desde 1992
+              Especialistas em Eletrônica  desde 1992
             </p>
           </div>
 
@@ -24,7 +24,7 @@ export function Footer() {
             <h4 className="font-bold mb-4">Links Rápidos</h4>
             <div className="space-y-2">
               {NAV_LINKS.map((link) => (
-                
+                <a
                   key={link.name}
                   href={link.href}
                   className="block text-gray-400 hover:text-[#00B0FF] transition-colors"
@@ -39,8 +39,8 @@ export function Footer() {
           <div>
             <h4 className="font-bold mb-4">Contato</h4>
             <div className="space-y-2 text-sm text-gray-400">
-              <p>Goiânia, Goiás</p>
-              <p>(62) 3XXX-XXXX</p>
+              <p>Rua José Gomes Bailão, Qd. 16a Lt. 13 - Cidade Jardim, Goiânia - GO, 74423-342</p>
+              <p>(62) 98481-6914</p>
               <p>contato@digilaser.com.br</p>
             </div>
             <div className="flex gap-4 mt-4">

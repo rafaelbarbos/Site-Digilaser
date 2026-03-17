@@ -2,8 +2,8 @@
 
 import { motion } from 'framer-motion';
 import { CheckCircle } from 'lucide-react';
-import { Button } from '@/components/ui/Button';
-import { SectionHeader } from '@/components/ui/SectionHeader';
+import { Button } from '@/app/components/ui/Button';
+import { SectionHeader } from '@/app/components/ui/SectionHeader';
 import { GALLERY_IMAGES } from '@/lib/constants';
 
 export function GallerySection() {

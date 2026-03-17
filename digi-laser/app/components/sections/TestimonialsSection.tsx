@@ -4,8 +4,8 @@ import { useCallback } from 'react';
 import useEmblaCarousel from 'embla-carousel-react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { motion } from 'framer-motion';
-import { TestimonialCard } from '@/components/ui/TestimonialCard';
-import { SectionHeader } from '@/components/ui/SectionHeader';
+import { TestimonialCard } from '@/app/components/ui/TestimonialCard';
+import { SectionHeader } from '@/app/components/ui/SectionHeader';
 import { TESTIMONIALS } from '@/lib/constants';
 
 export function TestimonialsSection() {

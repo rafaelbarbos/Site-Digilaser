@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { Zap, CheckCircle, Shield } from 'lucide-react';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/app/components/ui/Button';
 import { WHATSAPP_URL } from '@/lib/constants';
 
 const STATS = [
