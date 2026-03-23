@@ -90,12 +90,12 @@ export const TESTIMONIALS: Testimonial[] = [
 
 // --- GALERIA ---
 export const GALLERY_IMAGES: { src: string; alt: string }[] = [
-  { src: 'https://images.unsplash.com/photo-1769839272014-089cd3bbc274?w=1080', alt: 'Placa eletrônica recuperada 1' },
-  { src: 'https://images.unsplash.com/photo-1735875530804-d661ca2001da?w=1080', alt: 'Microchip após reparo' },
-  { src: 'https://images.unsplash.com/photo-1767448068187-5be3cbc848c7?w=1080', alt: 'Soldagem eletrônica' },
-  { src: 'https://images.unsplash.com/photo-1769085795297-b45cc8c92f5b?w=1080', alt: 'Motherboard recuperada' },
-  { src: 'https://images.unsplash.com/photo-1758295745926-88faff7ec2f2?w=1080', alt: 'Diagnóstico eletrônico' },
-  { src: 'https://images.unsplash.com/photo-1739025738498-9caddd7ab489?w=1080', alt: 'PCB closeup' },
+  { src: 'https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=1080', alt: 'Técnico em eletrônica' },
+  { src: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080', alt: 'Placa eletrônica' },
+  { src: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1080', alt: 'Soldagem eletrônica' },
+  { src: 'https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=1080', alt: 'Componentes eletrônicos' },
+  { src: 'https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=1080', alt: 'Diagnóstico eletrônico' },
+  { src: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1080', alt: 'Reparo técnico' },
 ];
 
 // --- CONTATO ---
