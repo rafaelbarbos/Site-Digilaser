@@ -102,7 +102,7 @@ export function HeroSection() {
         >
           <div className="absolute inset-0 bg-gradient-to-br from-[#00B0FF]/30 to-[#1565C0]/30 rounded-2xl blur-3xl" />
           <img
-            src="https://images.unsplash.com/photo-1769839272014-089cd3bbc274?w=1080"
+            src="https://images.pexels.com/photos/6477204/pexels-photo-6477204.jpeg"
             alt="Placa eletrônica de ar condicionado"
             className="relative rounded-2xl shadow-2xl w-full"
           />

@@ -31,9 +31,9 @@ export const SERVICES: Service[] = [
   },
   {
     icon: Upload,
-    title: 'Atualização de Firmware',
+    title: 'Reparo de Placa Inverter',
     description:
-      'Atualização e regravação de software embarcado nas unidades controladoras.',
+      'Diagnóstico e recuperação de placas inversoras responsáveis pelo controle de velocidade do compressor.',
   },
   {
     icon: Cpu,
@@ -90,12 +90,12 @@ export const TESTIMONIALS: Testimonial[] = [
 
 // --- GALERIA ---
 export const GALLERY_IMAGES: { src: string; alt: string }[] = [
-  { src: 'https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=1080', alt: 'Técnico em eletrônica' },
-  { src: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080', alt: 'Placa eletrônica' },
-  { src: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1080', alt: 'Soldagem eletrônica' },
-  { src: 'https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=1080', alt: 'Componentes eletrônicos' },
-  { src: 'https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=1080', alt: 'Diagnóstico eletrônico' },
-  { src: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1080', alt: 'Reparo técnico' },
+  { src: 'https://images.pexels.com/photos/5463581/pexels-photo-5463581.jpeg', alt: 'Técnico em eletrônica' },
+  { src: 'https://images.unsplash.com/photo-1718203862467-c33159fdc504?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', alt: 'Placa eletrônica' },
+  { src: 'https://images.unsplash.com/photo-1722010811002-a772b2066890?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', alt: 'Soldagem eletrônica' },
+  { src: 'https://images.pexels.com/photos/5463575/pexels-photo-5463575.jpeg', alt: 'Componentes eletrônicos' },
+  { src: 'https://images.unsplash.com/photo-1757219525975-03b5984bc6e8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', alt: 'Diagnóstico eletrônico' },
+  { src: 'https://imgs.search.brave.com/FwQW4rhBg2EgHFQyYq5Rrfn3iLhJJvYQIZ4RjfTwg2g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3RpL2ZvdG9z/LWdyYXRpcy90Mi82/ODQ4MDg0LW1vZGVy/bm8tdGV0by1tb250/YWRvLWNhc3NldGUt/dGlwby1hci1jb25k/aWNpb25hZG8tc2lz/dGVtYS1uby1jYWZl/LWdyYXRpcy1mb3Rv/LmpwZw', alt: 'Reparo técnico' },
 ];
 
 // --- CONTATO ---
